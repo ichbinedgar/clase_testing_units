@@ -59,4 +59,4 @@ const suma = (x, y) => {
     return x+y;
 }
 
-export default suma;
+module.exports = suma;
